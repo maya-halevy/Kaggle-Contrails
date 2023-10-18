@@ -1,4 +1,4 @@
-# Using CNNs to Identify Contrails and Reduce Global Warming
+# Using CNNs to Identify Contrails in Satellite Images and Reduce Global Warming
 
 **Overview:**  
 This repository contains our solution to the "Identify Contrails to Reduce Global Warming" Kaggle competition hosted by Google Research. Our solution involves using neural networks for binary semantic segmentation on satellite images to identify contrails.
