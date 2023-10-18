@@ -1,7 +1,9 @@
-# AI-Driven Skies: Greener Air Travel through Neural Networks
+# Using CNNs to Identify Contrails and Reduce Global Warming
 
 **Overview:**  
 This repository contains our solution to the "Identify Contrails to Reduce Global Warming" Kaggle competition hosted by Google Research. Our solution involves using neural networks for binary semantic segmentation on satellite images to identify contrails.
+
+See our medium article: https://pub.aimind.so/ai-driven-skies-paving-the-way-for-greener-air-travel-85b335acf153
 
 **Authors:** 
 - Maya Halevy
